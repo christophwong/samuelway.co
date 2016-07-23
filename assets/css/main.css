@@ -1,5 +1,11 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("font-awesome.min.css");
+@font-face{
+    font-family: "BaronNeue";
+    src: url('../fonts/Baron-Neue-Italic.otf'),
+}
+/* Generic Custom Things */
+/* #logo {font-family:"BaronNeue"}*/
 
 /*
 	Big Picture by HTML5 UP
@@ -14,7 +20,6 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: Baron Neue italic;
 		vertical-align: baseline;
 	}
 
