@@ -4,13 +4,11 @@
 @font-face{
     font-family: "BaronNeue";
     src: url('../fonts/Baron-Neue.otf');
-    font-weight: 400;
 }
 
 @font-face{
     font-family: "SnellRoundhand";
     src: url('../fonts/SnellRoundhand.ttc');
-    font-weight: 400;
 }
 /* Generic Custom Things */
 /* #logo {font-family:"BaronNeue"}*/
@@ -2854,6 +2852,7 @@
 		#logo a {
 			font-size: 1.25em;
 		}
+    #logo img {max-height: 52px; max-width: 325px; padding-top: 0.6em}
 
 	#nav {
 		position: absolute;
