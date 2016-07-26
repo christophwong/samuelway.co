@@ -1,8 +1,16 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("font-awesome.min.css");
+
 @font-face{
     font-family: "BaronNeue";
-    src: url('../fonts/Baron-Neue-Italic.otf'),
+    src: url('../fonts/Baron-Neue.otf');
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: "SnellRoundhand";
+    src: url('../fonts/SnellRoundhand.ttc');
+    font-weight: 400;
 }
 /* Generic Custom Things */
 /* #logo {font-family:"BaronNeue"}*/
