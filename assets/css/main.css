@@ -2262,7 +2262,7 @@
 /* Box */
 
 	.box {
-		background: rgba(255, 255, 255, 0.63);
+		background: rgba(0,0,0,0.48);
 		color: #39454b00;
 		padding: 2em;
 	}
