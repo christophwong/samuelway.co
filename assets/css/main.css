@@ -2248,7 +2248,7 @@
 			input[type="reset"].style2:hover,
 			.button.style2:hover,
 			button.style2:hover {
-				background-color: rgba(145, 146, 147, 0.035);
+				background-color: rgba(185, 186, 187, 0.5);
 			}
 
 			input[type="button"].style2.down,
